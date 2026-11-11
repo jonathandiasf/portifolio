@@ -1,6 +1,10 @@
 wrangler.jsonc
 .assetsignore
+.gitignore
 .git
 .git/**
+/.gitignore
 /.git
 /.git/**
+/.wrangler
+/.wrangler/**
