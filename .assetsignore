@@ -8,3 +8,6 @@ wrangler.jsonc
 /.git/**
 /.wrangler
 /.wrangler/**
+
+/worker/**
+/migrations/**
